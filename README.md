@@ -5,7 +5,7 @@
 -->
 
 - 💻 As tecnologias que mais domino são: HTML, CSS, JS e REACT JS
-- 📚 Atualmente estou estudando mais a fundo o PHP
+- 📚 Atualmente comecei a estudar typescript
 - 🚀 Meu maior objetivo é me tornar um profissional fullstack
 - ✉️ Contate-me pelo email: joao.pdesa@hotmail.com
 
