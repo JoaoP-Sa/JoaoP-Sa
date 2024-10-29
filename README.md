@@ -4,9 +4,9 @@
 **JoaoP-Sa/JoaoP-Sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💻 As tecnologias que mais domino são: HTML, CSS, JS, TS, REACT JS e ANGULAR
-- 📚 Atualmente estou me aprofundando cada vez mais no front end
-- 🚀 Meu maior objetivo é me tornar um profissional fullstack algum dia
+- 💻 As tecnologias que mais domino são: HTML, CSS, JS, TS, REACT JS, ANGULAR, PHP e Laravel
+- 📚 Atualmente estou focando cada vez mais em me tornar um profissional fullstack
+- 🚀 Meu maior objetivo é me tornar um desenvolvedor fullstack pleno ou mesmo sênior algum dia
 
 <div align="center">
   <a href="https://github.com/JoaoP-Sa">
@@ -22,6 +22,7 @@
   <img align="center" alt="Joao-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Joao-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Joao-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </div>
 
  ##
