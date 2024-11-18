@@ -4,7 +4,7 @@
 **JoaoP-Sa/JoaoP-Sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💻 As tecnologias que mais domino são: HTML, CSS, JS, TS, REACT JS, ANGULAR, PHP e Laravel
+- 💻 As tecnologias que mais domino são: REACT JS, ANGULAR, PHP e Laravel
 - 📚 Atualmente estou focando cada vez mais em me tornar um profissional fullstack
 - 🚀 Meu maior objetivo é me tornar um desenvolvedor fullstack pleno ou mesmo sênior algum dia
 
